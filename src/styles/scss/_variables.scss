@@ -1,0 +1,92 @@
+// Custom fonts
+@font-face {
+  font-family: IsidoraBlack;
+  src: url('../../assets/fonts/Isidora-Black.otf');
+}
+
+@font-face {
+  font-family: IsidoraBlackIt;
+  src: url('../../assets/fonts/Isidora-BlackIt.otf');
+}
+
+@font-face {
+  font-family: IsidoraBold;
+  src: url('../../assets/fonts/Isidora-Bold.otf');
+}
+
+@font-face {
+  font-family: IsidoraBoldIT;
+  src: url('../../assets/fonts/Isidora-BoldIt.otf');
+}
+
+@font-face {
+  font-family: IsidoraLight;
+  src: url('../../assets/fonts/Isidora-Light.otf');
+}
+
+@font-face {
+  font-family: IsidoraLightIt;
+  src: url('../../assets/fonts/Isidora-LightIt.otf');
+}
+
+@font-face {
+  font-family: IsidoraMedium;
+  src: url('../../assets/fonts/Isidora-Medium.otf');
+}
+
+@font-face {
+  font-family: IsidoraMediumIt;
+  src: url('../../assets/fonts/Isidora-MediumIt.otf');
+}
+
+@font-face {
+  font-family: IsidoraRegular;
+  src: url('../../assets/fonts/Isidora-Regular.otf');
+}
+
+@font-face {
+  font-family: IsidoraRegularIt;
+  src: url('../../assets/fonts/Isidora-RegularIt.otf');
+}
+
+@font-face {
+  font-family: IsidoraSemiBold;
+  src: url('../../assets/fonts/Isidora-SemiBold.otf');
+}
+
+@font-face {
+  font-family: IsidoraSemiBoldIt;
+  src: url('../../assets/fonts/Isidora-SemiBoldIt.otf');
+}
+
+@font-face {
+  font-family: IsidoraThin;
+  src: url('../../assets/fonts/Isidora-Thin.otf');
+}
+
+@font-face {
+  font-family: IsidoraThinIt;
+  src: url('../../assets/fonts/Isidora-ThinIt.otf');
+}
+
+
+
+// Colours
+$main: #ffffff;
+$links: #000000;
+$primary: #e30513;
+
+
+// Fonts
+$font-family-text: IsidoraRegular;
+$font-family-text-it:IsidoraRegularIt;
+$font-heading: IsidoraSemiBold;
+$font-heading-m: IsadoraMedium;
+$font-heading-m-it: IsadoraThinIt;
+
+
+// sizes
+$small: 14px;
+$medium: 16px;
+$large: 24px;
+$extra-large: 28px;

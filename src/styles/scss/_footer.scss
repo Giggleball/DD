@@ -1,0 +1,15 @@
+.footer {
+  background-color: snow;
+
+  @media screen and (min-width: 749px) {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+  }
+
+  &__link > * {
+    color: #000000;
+    text-decoration: none;
+  }
+}

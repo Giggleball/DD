@@ -1,0 +1,32 @@
+.about {
+  padding-bottom: 40px;
+  &-img__container {
+    opacity: 0.75;
+    height: auto;
+    align-items: end;
+
+    &-img {
+      border-radius: 20px;
+      max-width: 100%;
+    }
+  }
+
+  &-content {
+    font-family: "Playfair Display";
+    padding: 0 24px;
+
+    @media (max-width: 768px) {
+      padding-top: 16px;
+    }
+  }
+
+  &-content {
+    &__title, &__sub-title {
+      text-align: center;
+    }
+
+    &__text {
+      padding-top: 20px;
+    }
+  }
+}
